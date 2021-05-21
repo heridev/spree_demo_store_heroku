@@ -11,7 +11,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
-gem 'fog', '~> 1.22.0'
+gem 'fog', '~> 1.22.1'
 gem 'pry'
 
 group :production do
